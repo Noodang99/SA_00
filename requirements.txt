@@ -10,7 +10,6 @@ bleach==4.0.0
 blis==0.7.4
 brotlipy==0.7.0
 bs4==0.0.1
-catalogue==2.0.4
 cffi @ file:///C:/ci/cffi_1606237165371/work
 chardet @ file:///C:/ci/chardet_1605296577955/work
 click==7.1.2
